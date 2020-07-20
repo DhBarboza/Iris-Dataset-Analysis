@@ -11,4 +11,10 @@ R-Shiny implementation for visualization
  - Execute Script:
    - library(datasets)
    - str(iris)
+### How to run:
+- Clone repository :file_folder:
+- Open directory files with r-studio :open_file_folder:
+- Check :heavy_check_mark: if the shiny package was installed correctly 
+- Click on the **:arrow_forward: run app** button located at the top of the souce tab
+
 ## All information was used for student purposes
